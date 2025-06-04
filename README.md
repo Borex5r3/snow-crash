@@ -14,20 +14,26 @@ The objective is to find a way to gain access to the next level by exploiting sy
 
 ## 🗂️ Repository Structure
 
+```
 .
 ├── level00/
 │ ├── flag
-│ └── resources/
+│ └── solution.md
+|
 ├── level01/
 │ ├── flag
-│ └── resources/
+│ └── solution.md
+|
 ...
+|
 └── level14/
-
+│ ├── flag
+│ └── solution.md
+```
 
 Each level includes:
 - `flag`: The password/token retrieved using `getflag`.
-- `resources/`: All files used to solve the level (proof of concept, commands, notes, etc.).
+- `solution.md`: Explanation of how I solved the level, with commands, reasoning, and notes.
 
 ---
 
