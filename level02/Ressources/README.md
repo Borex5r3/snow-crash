@@ -20,7 +20,7 @@ level02.pcap
 Use scp to securely copy the file to your local host:
 
 ```bash
-scp -P 4242 level02@10.11.200.166:~/level02.pcap .
+scp -P 4242 level02@10.12.180.102:~/level02.pcap .
 ```
 
 **3. Analyze the packet capture**

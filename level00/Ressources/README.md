@@ -47,7 +47,7 @@ This suggests the string is `encoded`. Let’s try to decode it.
 
 After some research or using online tools like dcode.fr, we identify it’s encoded using `Caesar cipher with ROT15` (each letter is shifted by 15 positions in the alphabet).
 
-Decoding `**cdiiddwpgswtgt**` with `ROT15` gives:
+Decoding `cdiiddwpgswtgt` with `ROT15` gives:
 
 ```bash
 nottoohardhere

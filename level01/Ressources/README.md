@@ -39,13 +39,6 @@ We’ll use John the Ripper, a popular password cracker.
 echo "42hDRfypTqqnw" > hash.txt
 ```
 
-- Install John the Ripper:
-
-```bash
-sudo apt update
-sudo apt install -y john
-```
-
 - Run John:
 
 ```bash
